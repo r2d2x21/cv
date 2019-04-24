@@ -6,7 +6,7 @@
 
 [![Resume Preview](https://rage-esports.org/assets/rsz_prev.png)](https://jeffreyhubahib.github.io/cv/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://jeffreyhubahib.github.io/cv/)**
 
 ## Status
 
