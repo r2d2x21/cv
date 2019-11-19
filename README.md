@@ -1,3 +1,1 @@
-OPEN GL:
-https://jeffreyhubahib.github.io/cv/
-^_^
+OPEN GL | https://jeffreyhubahib.github.io/cv/ | 
